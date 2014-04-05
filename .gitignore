@@ -25,6 +25,7 @@ src/compiler/protoc-gen-objc
 
 # Mac stuff
 .DS_Store
+src/runtime/ProtocolBuffers.xcodeproj/xcuserdata/
 
 # Xcode stuff
 Build/
