@@ -674,7 +674,7 @@
 				PRODUCT_NAME = ProtocolBuffers;
 				SDKROOT = iphoneos7.0;
 				VALID_ARCHS = "i386 x86_64";
-				"VALID_ARCHS[sdk=iphoneos*]" = "armv6 armv7";
+				"VALID_ARCHS[sdk=iphoneos*]" = "armv6 armv7 armv7s";
 			};
 			name = Debug;
 		};
@@ -692,7 +692,7 @@
 				PRODUCT_NAME = ProtocolBuffers;
 				SDKROOT = iphoneos7.0;
 				VALID_ARCHS = "i386 x86_64";
-				"VALID_ARCHS[sdk=iphoneos*]" = "armv6 armv7";
+				"VALID_ARCHS[sdk=iphoneos*]" = "armv6 armv7 armv7s";
 			};
 			name = Release;
 		};
