@@ -77,7 +77,7 @@ const int32_t DEFAULT_BUFFER_SIZE = 4 * 1024;
 
 
 - (void)writeRawData:(const NSData*)data {
-	[self writeRawData:data offset:0 length:data.length];
+	[self writeRawData:data offset:0 length:(int32_t)data.length];
 }
 
 
